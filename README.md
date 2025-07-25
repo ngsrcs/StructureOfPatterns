@@ -1,5 +1,5 @@
 Here is the final Markdown file for the Observer pattern description with detailed sections and PlantUML diagrams:
-
+ 
 ```markdown
 # Structure of Patterns
 
